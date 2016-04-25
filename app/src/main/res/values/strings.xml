@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Rituximab</string>
+    <string name="threeSevenFive">BMI/Dose/Rate @375mg/m2</string>
+    <string name="dosageRadBtn0">375mg/m2</string>
+    <string name="dosageRadBtn1">500mg/m2</string>
+    <string name="dosageRadBtn2">1000mg/m2</string>
+    <string name="dosageRadBtn3">Other</string>
+    <string name="mainRadGrp">Select a Dosage</string>
+    <string name="mainBtn1">Check spc</string>
+    <string name="CalBtn">Calculate</string>
+    <string name="patientWeight">Patient\'s weight in Kg</string>
+    <string name="patientHeight">Patient\'s height</string>
+    <string name="firstInfusionHeader">First Infusion</string>
+    <string name="secondInfusionHeader">Repeat Infusions</string>
+
+    <string name="zeroToThirty">0-30min</string>//tableLayout Row2/Col1
+
+
+</resources>
